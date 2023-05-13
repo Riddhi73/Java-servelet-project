@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+E:\CSE_course\4_1\4-1\webtech\web-tech-class-app\.metadata\.plugins\org.eclipse.jdt.core
+2794828174.index
+1853904270.index

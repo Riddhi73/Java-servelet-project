@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+E:\CSE_course\4_1\4-1\webtech\web-tech-class-app\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+688868322.index
+1056307053.index
+1010619596.index
+2794828174.index
+477347282.index
