@@ -10,5 +10,5 @@
 
 4. A student user should be able to register for a new course and view all his/her registered courses.
 
-#MySql
+# MySql Database
 
